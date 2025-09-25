@@ -14,5 +14,3 @@ echo \
 sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-# Use command curl -s https://raw.githubusercontent.com/shrinivasalwandikar-ctrl/Docker_install/refs/heads/main/docker_install.sh|bash
